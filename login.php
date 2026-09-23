@@ -227,10 +227,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <section class="institutional-panel">
                             <div class="institutional-content">
                                 <div>
-                                    <div class="panel-kicker">
-                                        <i class="bi bi-shield-lock-fill"></i>
-                                        Acceso institucional
-                                    </div>
                                     <h1 class="panel-title"><?php echo SITE_NAME; ?></h1>
                                     <p class="panel-text">Plataforma para el seguimiento ordenado de solicitudes, compromisos y acciones registradas por las áreas responsables.</p>
                                 </div>
