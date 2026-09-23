@@ -224,10 +224,6 @@ if (!$auth->isLoggedIn()) {
                 <div class="welcome-content">
                     <div class="d-flex flex-column flex-lg-row align-items-lg-end justify-content-between gap-4">
                         <div>
-                            <div class="welcome-kicker">
-                                <i class="bi bi-grid-1x2-fill"></i>
-                                Panel institucional
-                            </div>
                             <h1 class="welcome-title">Bienvenido, <?php echo htmlspecialchars($_SESSION['nombre_completo']); ?></h1>
                             <p class="welcome-text">Seleccione el módulo que necesita para dar seguimiento a solicitudes, reportes y administración del sistema.</p>
                         </div>
