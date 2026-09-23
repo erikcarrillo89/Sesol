@@ -232,7 +232,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 </div>
                                 <div class="panel-footer">
                                     <i class="bi bi-lock me-1"></i>
-                                    Ingrese con sus credenciales autorizadas para continuar.
                                 </div>
                             </div>
                         </section>
