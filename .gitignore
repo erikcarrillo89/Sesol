@@ -1,0 +1,33 @@
+# Archivos locales y credenciales
+/includes/config.php
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Datos y archivos cargados
+/uploads/
+*.sql
+*.sql.*
+*.sqlite
+*.sqlite3
+*.db
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.docx
+*.pdf
+/reporte_solicitudes_escuelas*
+/tmp_*
+/*_validation.txt
+
+# Respaldos, registros y temporales
+.DS_Store
+*.bak*
+*.phpxx
+error_log
+*.log
+__pycache__/
+*.pyc

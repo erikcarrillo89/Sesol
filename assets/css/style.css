@@ -1,0 +1,9 @@
+.bg-warning {
+  background-color: rgba(161,30,57, 1) !important;
+}
+.upper{
+  text-transform: uppercase;
+}
+.bg-morena {
+    background-color: #8D2D44 !important; /* El color guinda */
+}
